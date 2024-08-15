@@ -1,1 +1,1 @@
-# 1.-Building-Diagnostics-Robotics-App
+Building-Diagnostics-Robotics-App
